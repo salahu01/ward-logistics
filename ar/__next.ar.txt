@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[61413,["/ward-logistics/_next/static/chunks/3e37e293c2d912f5.js","/ward-logistics/_next/static/chunks/89949b3f65f95fc1.js"],"default"]
+3:I[64195,["/ward-logistics/_next/static/chunks/3e37e293c2d912f5.js","/ward-logistics/_next/static/chunks/89949b3f65f95fc1.js"],"default"]
+:HL["/ward-logistics/_next/static/chunks/b46fef07e87fcd95.css","style"]
+0:{"buildId":"kn32lOeAcsun_oJAlt57Z","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ward-logistics/_next/static/chunks/b46fef07e87fcd95.css","precedence":"next"}]],["$","html",null,{"lang":"ar","dir":"rtl","className":"archivo_28ed4610-module__uYd3Ya__variable cairo_6ae70f9-module__Lfk48G__variable jetbrains_mono_4bc3e557-module__XWxg7W__variable","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"loading":null,"isPartial":false}

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://salahu01.github.io/ward-logistics
+Sitemap: https://salahu01.github.io/ward-logistics/sitemap.xml
